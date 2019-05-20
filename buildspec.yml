@@ -1,7 +1,7 @@
 version: 0.1
 
 phases:
-  builds:
+  build:
     commands:
       - echo Nothing to do yet
 artifacts:
