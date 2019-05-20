@@ -6,3 +6,5 @@ Technologies used:
 
 Brew
 Git and Github
+HTML, CSS
+Google fonts
